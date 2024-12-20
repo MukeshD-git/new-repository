@@ -1,0 +1,39 @@
+<!doc type html>
+<html>
+<head>
+<title> RESUME </TITLE>
+</head>
+<body>
+<center><p>NAME:<b>D MUKESH</b></p>
+<p><a href="tel:9398769479">phone</a></p>
+<a href="mailto: mukeshd1020@gmail.com">mail</a>
+</center>
+<hr/>
+<h1>OBJECTIVES
+</h1>
+<P> Seeking a position where i utilize my skills and contribute to the best of my efforts to help the company growth and attain success </P>
+<hr/>
+<h2><b>EDUCATION</h2></b>
+<p>B.TECH ( CSE) </p>
+<p>AUDISANKARA INSTITUTE OF TECHNOLOGY (2021-2024)</p>
+<p>DIPLOMA (MECH)</p>
+<p>AL-HUDA POLYTECHNIC COLLAGE (2017-2021)</P>
+<P><b>SSC</B></P>
+<p>MSM HIGH SCHOOL (2016-2017)</P>
+<hr/>
+<h3><big>SKILLS</h3></big>
+<P>HTML </P>
+<p>CSS</p>
+<p>JAVA</P>
+<HR/>
+<h4><big>DECLARATION</h4></big>
+<p>I HERE BY DECLARE THAT ALL DETAILS MENTIONED IN ABOVE ARE IN ACCORDANCE WITH THE TRUTH AND FACT AS PER MY KNOWLEDGE AND I HOLD THE RESPONSBILITY FOR THE CORRECTNESS OF THE ABOVE MENTIONED PARTICULARS
+</P>
+</hr>
+<p>PLACE : NELLORE</P>
+<p>DATE:5 DEC 2024</p>
+</hr>
+<p style="text-align:right;">D MUKESH</P>
+</body>
+</html> 
+   
